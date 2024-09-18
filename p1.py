@@ -1,7 +1,7 @@
 name = input("Enter your name :- ")
 age = int(input("Enter your age :- "))
 
-if age<18:
+if age<19:
     exit("You have not permission")
 else:
     subjects = ["sinhala","English","Tamil","Science","Maths","Health","Budhism"]
